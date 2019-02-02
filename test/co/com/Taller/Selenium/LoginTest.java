@@ -50,8 +50,8 @@ public class LoginTest {
     public void setUp() {
         driver.get("http://demo.guru99.com/V4/index.php");
 
-        usuario = "mngr162001"; //Nombre de usuario
-        contrasena = "udUbyjy"; //Contraseña del suuario
+        usuario = "mngr176727"; //Nombre de usuario
+        contrasena = "ApUvyhy"; //Contraseña del suuario
     }
 
     @After
